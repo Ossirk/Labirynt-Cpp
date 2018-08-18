@@ -1,2 +1,2 @@
- Stary projekt na zaliczenie |
- Old project for classes
+ Stary projekt 
+ Old project 
