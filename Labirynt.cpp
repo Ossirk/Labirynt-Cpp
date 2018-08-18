@@ -1,5 +1,4 @@
 //2017-12-20 Milewski Krzysztof
-//Dev-C++ 5.11 (TDM-GCC 4.9.2 32-bit Release)
 #include <iostream>
 #include <fstream>
 #include <conio.h>
